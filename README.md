@@ -6,7 +6,6 @@
 ### Python in Action 学习视频发布
 [https://github.com/gxtrobot/pyinaction](https://github.com/gxtrobot/pyinaction
 
-注意, 该群仅讨论**python学习, 爬虫开发, aspider 框架学习开发, Bustag系统bug, 运行问题**等, 请勿讨论无关主题
 
 **免责声明:
 本软件仅用于技术学习使用，禁止用于商业用途，使用本软件所造成的的后果由使用者承担！
